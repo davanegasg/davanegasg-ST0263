@@ -1,4 +1,4 @@
-# info de la materia: ST0263  Tópicos Especiales en Telemática
+# Info de la Materia: ST0263  Tópicos Especiales en Telemática
 #
 # Estudiante(s): Diego Alejandro Vanegas González, davanegasg@eafit.edu.co
 #
