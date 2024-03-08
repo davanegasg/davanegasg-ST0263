@@ -1,0 +1,7 @@
+{
+    "python.analysis.extraPaths": [
+        "./Middleware/gRPC/proto",
+        "./Middleware/RabbitMQ",
+        "./Middleware"
+    ]
+}

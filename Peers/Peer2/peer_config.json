@@ -1,0 +1,7 @@
+{
+    "ip": "0.0.0.0",
+    "port": 5002,
+    "file_directory": "Peer1/archivo2.txt",
+    "friend_peer_primary": "http://127.0.0.1:5001",
+    "friend_peer_secondary": "http://127.0.0.1:5001"
+}
